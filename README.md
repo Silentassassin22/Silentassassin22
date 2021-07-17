@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://raw.githubusercontent.com/Silentassassin22/Silentassassin22/master/images/wakatime_weekly_language_stats.svg
-https://raw.githubusercontent.com/Silentassassin22/Silentassassin22/master/images/wakatime_weekly_project_stats.svg
+
+![Weekly Stats](https://raw.githubusercontent.com/Silentassassin22/Silentassassin22/master/images/wakatime_weekly_language_stats.svg)
+![Weekly Project Stats](https://raw.githubusercontent.com/Silentassassin22/Silentassassin22/master/images/wakatime_weekly_project_stats.svg)
